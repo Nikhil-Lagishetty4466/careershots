@@ -1,0 +1,32 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="40" fill="#08101E"/>
+  <circle cx="184" cy="112" r="132" fill="#2563EB" fill-opacity="0.28"/>
+  <circle cx="1014" cy="146" r="108" fill="#F59E0B" fill-opacity="0.22"/>
+  <rect x="92" y="82" width="160" height="160" rx="42" fill="url(#paint0_linear_3_2)"/>
+  <path d="M136 161C136 140.013 153.013 123 174 123C186.827 123 198.199 129.35 205.117 139.091L191.983 148.725C188.287 143.3 182.07 139.746 174.89 139.746C163.191 139.746 153.712 149.225 153.712 160.924C153.712 172.623 163.191 182.101 174.89 182.101C183.043 182.101 190.117 177.494 193.668 170.738H174.89V155.042H212.89C213.192 157.194 213.323 159.394 213.323 161.604C213.323 183.645 195.822 201.146 173.781 201.146C151.74 201.146 134.239 183.645 134.239 161.604L136 161Z" fill="white"/>
+  <path d="M478 222H909" stroke="#1E3A8A" stroke-width="2"/>
+  <path d="M478 272H827" stroke="#1E3A8A" stroke-width="2" stroke-opacity="0.65"/>
+  <text x="314" y="232" fill="white" font-family="Poppins, Arial, sans-serif" font-size="88" font-weight="700">Career Shots</text>
+  <text x="314" y="314" fill="#C7D2FE" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500">
+    Level up your career with expert guidance.
+  </text>
+  <text x="314" y="370" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">
+    Interview prep, resume reviews, roadmaps, job updates, and growth resources.
+  </text>
+  <rect x="314" y="430" width="272" height="62" rx="31" fill="url(#paint1_linear_3_2)"/>
+  <text x="367" y="471" fill="white" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">
+    careershots.example
+  </text>
+  <defs>
+    <linearGradient id="paint0_linear_3_2" x1="104" y1="92" x2="236" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.55" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_3_2" x1="330" y1="438" x2="569" y2="492" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.48" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+</svg>
